@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 import random
 
 from matplotlib import pyplot as plt
