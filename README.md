@@ -21,6 +21,7 @@ Un point (x, y) sera à l'intérieur du cercle si x^2 + y^2 < 1.
 Pour chaque point invoqué, notez s'il est à l'intérieur ou à l'extérieur du cercle. Plus vous invoquerez de points, plus votre estimation de Pi sera précise.
 
 # L'Alchimie
+
 La proportion de points à l'intérieur du quart de cercle par rapport au total vous donnera une estimation de 1/4 de Pi. Multipliez ce nombre par 4, et voilà ! Vous aurez votre estimation de Pi.
 
 Maintenant, brave aventurier, plongez-vous dans cette quête et découvrez le trésor caché de Monte Carlo!
